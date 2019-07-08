@@ -3146,3 +3146,29 @@ java.net.SocketTimeoutException: connect timed out
 2019-07-08 21:21:39,638 [3910615]   INFO - mponents.impl.stores.StoreUtil - saveProjectsAndApp took 168 ms 
 2019-07-08 21:21:51,256 [3922233]   INFO - mponents.impl.stores.StoreUtil - saveProjectsAndApp took 42 ms 
 2019-07-08 21:22:18,103 [3949080]   WARN - ConfigurableExtensionPointUtil - ignore deprecated groupId: language for id: preferences.language.Kotlin.scripting 
+2019-07-08 21:22:27,043 [3958020]   INFO - j.ide.plugins.RepositoryHelper - using cached plugin list (updated at 2019/7/8 21:13) 
+2019-07-08 21:26:42,188 [4213165]   INFO - mponents.impl.stores.StoreUtil - saveProjectsAndApp took 177 ms 
+2019-07-08 21:26:50,890 [4221867]   INFO - rationStore.ComponentStoreImpl - Saving Project 'E:\workspace_idea' workspace_idealibraryTable took 18 ms 
+2019-07-08 21:26:50,890 [4221867]   INFO - mponents.impl.stores.StoreUtil - saveProjectsAndApp took 73 ms 
+2019-07-08 21:27:13,078 [4244055]   INFO - mponents.impl.stores.StoreUtil - saveProjectsAndApp took 44 ms 
+2019-07-08 21:27:30,069 [4261046]   INFO - mponents.impl.stores.StoreUtil - saveProjectsAndApp took 50 ms 
+2019-07-08 21:27:39,215 [4270192]   INFO - mponents.impl.stores.StoreUtil - saveProjectsAndApp took 52 ms 
+2019-07-08 21:27:49,075 [4280052]   WARN - ConfigurableExtensionPointUtil - ignore deprecated groupId: language for id: preferences.language.Kotlin.scripting 
+2019-07-08 21:27:49,909 [4280886]   INFO - j.ide.plugins.RepositoryHelper - using cached plugin list (updated at 2019/7/8 21:13) 
+2019-07-08 21:29:52,535 [4403512]   INFO - mponents.impl.stores.StoreUtil - saveProjectsAndApp took 243 ms 
+2019-07-08 21:29:56,779 [4407756]   INFO - mponents.impl.stores.StoreUtil - saveProjectsAndApp took 48 ms 
+2019-07-08 21:30:00,549 [4411526]   WARN - ConfigurableExtensionPointUtil - ignore deprecated groupId: language for id: preferences.language.Kotlin.scripting 
+2019-07-08 21:30:01,428 [4412405]   INFO - j.ide.plugins.RepositoryHelper - using cached plugin list (updated at 2019/7/8 21:13) 
+2019-07-08 21:32:12,513 [4543490]   INFO - mponents.impl.stores.StoreUtil - saveProjectsAndApp took 172 ms 
+2019-07-08 21:32:18,387 [4549364]   INFO - mponents.impl.stores.StoreUtil - saveProjectsAndApp took 57 ms 
+2019-07-08 21:35:45,142 [4756119]   INFO - mponents.impl.stores.StoreUtil - saveProjectsAndApp took 68 ms 
+2019-07-08 21:35:49,107 [4760084]   INFO - mponents.impl.stores.StoreUtil - saveProjectsAndApp took 43 ms 
+2019-07-08 21:36:40,382 [4811359]   INFO - mponents.impl.stores.StoreUtil - saveProjectsAndApp took 194 ms 
+2019-07-08 21:36:56,528 [4827505]   INFO - mponents.impl.stores.StoreUtil - saveProjectsAndApp took 208 ms 
+2019-07-08 21:38:46,835 [4937812]   WARN - ConfigurableExtensionPointUtil - ignore deprecated groupId: language for id: preferences.language.Kotlin.scripting 
+2019-07-08 21:38:47,696 [4938673]   INFO - j.ide.plugins.RepositoryHelper - using cached plugin list (updated at 2019/7/8 21:13) 
+2019-07-08 21:41:51,432 [5122409]   INFO - mponents.impl.stores.StoreUtil - saveProjectsAndApp took 234 ms 
+2019-07-08 21:42:09,870 [5140847]   WARN - ConfigurableExtensionPointUtil - ignore deprecated groupId: language for id: preferences.language.Kotlin.scripting 
+2019-07-08 21:42:11,024 [5142001]   INFO - j.ide.plugins.RepositoryHelper - using cached plugin list (updated at 2019/7/8 21:13) 
+2019-07-08 21:43:32,129 [5223106]   INFO - mponents.impl.stores.StoreUtil - saveProjectsAndApp took 49 ms 
+2019-07-08 21:43:43,033 [5234010]   INFO - mponents.impl.stores.StoreUtil - saveProjectsAndApp took 172 ms 
