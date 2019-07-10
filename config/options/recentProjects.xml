@@ -14,41 +14,18 @@
     <option name="pid" value="" />
     <option name="additionalInfo">
       <map>
-        <entry key="E:/idea-project/pompey-upms-web">
-          <value>
-            <RecentProjectMetaInfo>
-              <option name="build" value="IU-191.6707.61" />
-              <option name="productionCode" value="IU" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1557063375021" />
-              <option name="buildTimestamp" value="1555426236588" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="E:/workspace/pompey-upms">
-          <value>
-            <RecentProjectMetaInfo>
-              <option name="build" value="IU-191.7479.19" />
-              <option name="productionCode" value="IU" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1562512393861" />
-              <option name="buildTimestamp" value="1559021765830" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="E:/workspace_idea">
           <value>
             <RecentProjectMetaInfo>
               <option name="build" value="IU-191.7479.19" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1562600147336" />
-              <option name="buildTimestamp" value="1559021801757" />
+              <option name="projectOpenTimestamp" value="1562761492299" />
+              <option name="buildTimestamp" value="1559021807871" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
       </map>
     </option>
-    <option name="lastProjectLocation" value="E:/workspace" />
   </component>
 </application>

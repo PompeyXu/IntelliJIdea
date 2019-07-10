@@ -1,3 +1,12 @@
+AngularJS
 AntSupport
+J2ME
+StrutsAssistant
+com.intellij.play
+com.intellij.struts2
+cucumber-groovy
 org.intellij.grails
+org.intellij.groovy
 org.jetbrains.android
+org.jetbrains.kotlin
+org.jetbrains.plugins.gradle

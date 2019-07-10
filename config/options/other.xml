@@ -1,33 +1,20 @@
 <application>
   <component name="NodeJsLocalInterpreters">
-    <local-interpreter path="D:/Program Files/nodejs/node.exe">
-      <version-cache version="11.14.0" last-modified="1556544285268" />
-    </local-interpreter>
+    <local-interpreter path="D:/Program Files/nodejs/node.exe" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ColorChooser.RecentColors" value="202-230-202-255,,,255-255-255-255,,,76-138-172-255,,,91-91-182-255,,,127-159-191-255,,,110-135-191-255,,,94-111-191-255,,,66-109-191-255,,,72-82-191-255,,,163-56-191-255,,,49-61-205-255,,,127-0-85-255,,,43-0-192-255,,,100-100-100-255,,,171-14-182-255" />
-    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.61049724" />
-    <property name="ExpandBeforeRunStepsPanel" value="true" />
-    <property name="ExpandRunDashboardTypesPanel" value="false" />
-    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
-    <property name="InstalledPluginsSearchHistory" value="maven" />
+    <property name="FileTemplates.SelectedTemplate" value="Class" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
     <property name="ProjectStructure.SecondLevelElements" value="0.29680365" />
-    <property name="SettingsSearchHistory" value="sdk&#10;jar&#10;maven&#10;jdk" />
-    <property name="TrendingPluginsSearchHistory" value="vue&#10;lombok&#10;alibaba&#10;maven" />
-    <property name="UpdatePluginsSearchHistory" value="maven" />
-    <property name="ask.about.ctrl.y.shortcut" value="true" />
-    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
-    <property name="create.project.preferred.importer" value="Existing Sources" />
+    <property name="SettingsSearchHistory" value="soft wraps" />
+    <property name="TrendingPluginsSearchHistory" value="UML&#10;MetricsReloaded&#10;NPM&#10;lombok&#10;alibaba" />
+    <property name="build.toolwindow.run.selection.state" value="consoleView" />
     <property name="defaultJdkConfigured" value="true" />
-    <property name="eclipse.project.dir" value="E:\idea-project\pompey-upms-web" />
-    <property name="evlsprt3.191" value="18" />
-    <property name="file.chooser.recent.files" value="E:/workspace_idea/pompey-upms/pom.xml&#10;D:/Program Files/Java/apache-maven-3.5.4/conf/settings.xml&#10;D:/Program Files/Java/apache-maven-3.5.4&#10;E:/workspace_idea&#10;E:/workspace/pompey-upms&#10;E:/idea-project/pompey-upms-web" />
-    <property name="file.gist.reindex.count" value="24477" />
-    <property name="fileTypeChangedCounter" value="10" />
+    <property name="file.chooser.recent.files" value="E:/workspace_idea" />
+    <property name="fileTypeChangedCounter" value="6" />
     <property name="installed.kotlin.plugin.version" value="1.3.21-release-IJ2019.1-3" />
-    <property name="last.imported.location" value="E:/idea-project/pompey-upms-web" />
-    <property name="lastTip" value="45" />
-    <property name="selected.color.option.type" value="BAD_CHARACTER" />
+    <property name="lastTip" value="1" />
+    <property name="selected.color.option.type" value="CONSOLE_CYAN_OUTPUT" />
     <property name="tasks.pass.word.conversion.enforced" value="true" />
     <property name="ts.lib.d.ts.version" value="3.4.1" />
   </component>

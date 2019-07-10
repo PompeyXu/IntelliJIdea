@@ -1,7 +1,7 @@
-<templateSet group="UserDefine">
-  <template name="*" value="*&#10; * @Description //TODO&#10; * @Param $param$&#10; * @return $return$&#10; **/" description="add comment method" toReformat="false" toShortenFQNames="true">
-    <variable name="param" expression="methodParameters()" defaultValue="" alwaysStopAt="true" />
-    <variable name="return" expression="methodReturnType()" defaultValue="" alwaysStopAt="true" />
+<templateSet group="userDefine">
+  <template name="*" value="*&#10; * @Description &#10; * @Author PompeyXu&#10; * @Param $param$&#10; * @return $return$&#10; **/" shortcut="ENTER" description="add Comments for method" toReformat="false" toShortenFQNames="true">
+    <variable name="param" expression="methodParameters()" defaultValue="" alwaysStopAt="false" />
+    <variable name="return" expression="methodReturnType()" defaultValue="" alwaysStopAt="false" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
