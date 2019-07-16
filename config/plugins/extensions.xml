@@ -8824,19 +8824,6 @@
         </option>
       </plugins>
     </entry>
-    <entry key="*.vue">
-      <plugins>
-        <option name="myPlugins">
-          <set>
-            <plugin>
-              <option name="myPluginId" value="org.jetbrains.plugins.vue" />
-              <option name="myPluginName" />
-              <option name="myBundled" value="false" />
-            </plugin>
-          </set>
-        </option>
-      </plugins>
-    </entry>
     <entry key="*.wdl">
       <plugins>
         <option name="myPlugins">
@@ -9479,6 +9466,19 @@
           <set>
             <plugin>
               <option name="myPluginId" value="de.sgalinski.typoscript.plugin.id" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
+    <entry key="*_at.cfg">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="com.demonwav.minecraft-dev" />
               <option name="myPluginName" />
               <option name="myBundled" value="false" />
             </plugin>
@@ -10247,6 +10247,19 @@
           <set>
             <plugin>
               <option name="myPluginId" value="lsfusion.idea.plugin" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
+    <entry key="mixins.*.json">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="com.demonwav.minecraft-dev" />
               <option name="myPluginName" />
               <option name="myBundled" value="false" />
             </plugin>

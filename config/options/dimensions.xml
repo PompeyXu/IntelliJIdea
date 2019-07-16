@@ -6,14 +6,43 @@
     <location key="SettingsEditor.0.0.1920.1080" x="491" y="87" />
     <location key="#com.intellij.codeInsight.template.impl.EditVariableDialog.0.0.1920.1080" x="1041" y="330" />
     <location key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1.0.0.1920.1080" x="623" y="359" />
+    <location key="search.everywhere.popup.0.0.1920.1080" x="827" y="164" />
+    <location key="EnvironmentVariablesDialog.0.0.1920.1080" x="821" y="269" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080" x="414" y="181" />
+    <location key="find.popup.0.0.1920.1080" x="866" y="147" />
+    <location key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2.0.0.1920.1080" x="507" y="253" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1920.1080" x="760" y="284" />
+    <location key="#com.intellij.ide.scriptingContext.ui.PerFileMappingsDialogWrapper.0.0.1920.1080" x="816" y="259" />
+    <location key="run.anything.popup.0.0.1920.1080" x="616" y="237" />
+    <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.1920.1080" x="690" y="281" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.1920.1080" x="765" y="216" />
+    <location key="#com.intellij.debugger.streams.ui.EvaluationAwareTraceWindow.0.0.1920.1080" x="872" y="494" />
+    <location key="#xdebugger.evaluate.0.0.1920.1080" x="837" y="271" />
+    <location key="recent.locations.popup.0.0.1920.1080" x="601" y="239" />
+    <location key="#Updates.0.0.1920.1080" x="552" y="185" />
+    <location key="#ESLint.0.0.1920.1080" x="552" y="185" />
     <size key="SettingsEditor.0.0.1920.1080" width="1191" height="781" />
-    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1876" height="346" />
-    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1876" height="346" />
-    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1876" height="346" />
-    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1876" height="346" />
-    <size key="GridCell.Tab.1.left.0.0.1920.1080" width="1876" height="346" />
-    <size key="GridCell.Tab.1.center.0.0.1920.1080" width="1876" height="346" />
-    <size key="GridCell.Tab.1.right.0.0.1920.1080" width="1876" height="346" />
-    <size key="GridCell.Tab.1.bottom.0.0.1920.1080" width="1876" height="346" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1876" height="272" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1876" height="272" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1876" height="272" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1876" height="272" />
+    <size key="GridCell.Tab.1.left.0.0.1920.1080" width="1876" height="272" />
+    <size key="GridCell.Tab.1.center.0.0.1920.1080" width="1876" height="272" />
+    <size key="GridCell.Tab.1.right.0.0.1920.1080" width="1876" height="272" />
+    <size key="GridCell.Tab.1.bottom.0.0.1920.1080" width="1876" height="272" />
+    <size key="search.everywhere.popup.0.0.1920.1080" width="672" height="678" />
+    <size key="GridCell.Tab.2.left.0.0.1920.1080" width="1876" height="270" />
+    <size key="GridCell.Tab.2.center.0.0.1920.1080" width="1876" height="270" />
+    <size key="GridCell.Tab.2.right.0.0.1920.1080" width="1876" height="270" />
+    <size key="GridCell.Tab.2.bottom.0.0.1920.1080" width="1876" height="270" />
+    <size key="GridCell.Tab.3.left.0.0.1920.1080" width="1876" height="178" />
+    <size key="GridCell.Tab.3.center.0.0.1920.1080" width="1876" height="178" />
+    <size key="GridCell.Tab.3.right.0.0.1920.1080" width="1876" height="178" />
+    <size key="GridCell.Tab.3.bottom.0.0.1920.1080" width="1876" height="178" />
+    <size key="find.popup.0.0.1920.1080" width="752" height="705" />
+    <size key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2.0.0.1920.1080" width="906" height="568" />
+    <size key="DebuggerActiveHint.0.0.1920.1080" width="450" height="484" />
+    <size key="#xdebugger.evaluate.0.0.1920.1080" width="640" height="507" />
+    <size key="recent.locations.popup.0.0.1920.1080" width="700" height="530" />
   </component>
 </application>
